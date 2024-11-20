@@ -4,8 +4,7 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        int idade = 10;
-
+        final double salarioMinimo = 2500.50; //dois mil  e quinhentos reais e 55 centavos
 
     }
 }
